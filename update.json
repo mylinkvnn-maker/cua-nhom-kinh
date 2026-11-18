@@ -1,8 +1,8 @@
 {
-  "version": "1.22.0",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.0/nhom_kinh_designer_v1.22.0.rbz",
-  "sha256": "2e4bf40601602cb606c1de4ef6f08ebda8cd86a46e5943d75e8157deb7e28bbb",
-  "size": 1431023,
+  "version": "1.22.1",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.1/nhom_kinh_designer_v1.22.1.rbz",
+  "sha256": "98019b7ff840af6e35ef868901e45700aa9deb22847f4444dc040f05d5001871",
+  "size": 1434814,
   "date": "2026-11-18",
-  "notes": "– Bảng giá Excel, giá nhôm theo kg từng thanh, phụ kiện & zoăng 3D thật (18/11/2026)\n\n- Thư viện & giá ↔ Excel: nút *Xuất Excel* ra file .xlsx gồm 5 trang: Giá chung, Hệ nhôm, Thanh nhôm, Kính, Phụ kiện. Sửa giá trong Excel rồi bấm *Nhập Excel* để cập nhật; mã thanh / phụ kiện mới được thêm vào thư viện. Không cần cài thêm gì.\n- Nhôm tính theo kg: bảng Thanh nhôm có độ dày, kg/m, kg/cây (theo chiều dài cây), giá/kg riêng từng mã và giá/cây. Giá vật tư nhôm = kg × giá/kg (giá riêng của thanh → giá hệ → giá chung).\n- Bản lề cửa đi 3D: thân trụ 2 đốt + 2 lá bắt vít, sơn cùng màu nhôm (3D 105 mm, 4D 120 mm, 2D 90 mm); bản lề lá inox, bản lề âm theo mẫu chọn.\n- Tay nắm + khóa cửa đi 3D: ốp đầu tròn / ốp vuông / ốp dài, cần gạt tròn quay về phía bản lề, lõi khóa; tay nắm thanh chữ H inox 600 / 1200 mm. Tay nắm cửa sổ có đế bo tròn.\n- Zoăng kính theo mặt cắt thật: thân ép kín khe kính, môi vát, chân cắm rãnh, chạy liền quanh kính cắt góc 45°; zoăng xám / keo silicone theo mẫu chọn."
+  "notes": "– Bản lề tùy chỉnh, zoăng khung cánh & chống bụi, khóa đa điểm 3D (18/11/2026)\n\n- Bản lề cửa đi tùy chỉnh theo từng ô: chọn *Số bản lề mỗi cánh* (2–6) hoặc gõ *vị trí từng bản lề* tính từ chân cánh (vd 200 900 1500 2000). 3D, bản vẽ gia công và báo giá (số lượng bản lề) đều theo số đã chỉnh; để trống là chia đều như trước (cánh cao thì 4).\n- Zoăng khung – cánh 3D: vị trí lấy từ chính mặt cắt catalogue (dò khe giữa nhôm khung và nhôm cánh): zoăng ngoài ở gờ ngoài cánh, zoăng trong ở rãnh gờ trong khung, chạy quanh cánh (cửa đi sát sàn: 3 cạnh).\n- Zoăng chống bụi chân cánh cửa đi: chổi dưới ốp đáy chạy suốt khe sàn, hoặc thanh chặn bụi tự động theo mẫu chọn.\n- Khóa đa điểm 3D: mặt khóa thép chạy suốt qua các đầu khóa, lưỡi gà, chốt chết, đầu khóa nấm, ke đón trên khung / cánh phụ. Chốt âm cánh phụ: cần gạt trên cạnh giữa 2 cánh + ty chốt về đầu / chân cánh."
 }
