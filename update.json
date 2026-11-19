@@ -1,8 +1,8 @@
 {
-  "version": "1.22.2",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.2/nhom_kinh_designer_v1.22.2.rbz",
-  "sha256": "7d2b981947ed53055097db652b59f711aa52456137a021a0f8c0013ee2761334",
-  "size": 1435744,
+  "version": "1.22.3",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.3/nhom_kinh_designer_v1.22.3.rbz",
+  "sha256": "53865bc60cd8786e63cd0512002a51894ebbc1fe1699978f025091bab012aaa7",
+  "size": 1436345,
   "date": "2026-11-20",
-  "notes": "– Đồ họa 3D chỉn chu hơn (20/11/2026)\n\n- Hết nét thừa: đường dẫn dùng để quét thanh nhôm không còn sót lại thành nét rời trên mặt khung / cánh.\n- Cửa cánh vòm: hết mặt xám phủ kín cánh (kính hiện đúng); bản lề nằm trên đoạn cạnh thẳng, không còn treo lơ lửng ngoài vòm.\n- Chốt âm cánh phụ: ty chốt chỉ thò khỏi cánh 12 mm vào lỗ chốt (trước đây đâm xuống dưới sàn hơn 100 mm); cần gạt không lòi khỏi cánh.\n- Cửa kính cường lực: kẹp kính là 2 má inox bo góc ốp 2 mặt kính (trước là khối hộp nằm lọt trong kính); tay nắm H tròn Ø32 có chân đế. Cửa kính lùa treo: kẹp treo inox + bánh xe trên ray.\n- Tay nắm cửa lùa: đế bo tròn + tay cầm, thay cho khối hộp trơn."
+  "notes": "– Kính 3D đúng khổ catalogue Xingfa (20/11/2026)\n\n- Kính ăn rãnh nhôm 15 mm mỗi cạnh như bản vẽ lắp ráp Xingfa 55: tấm kính 3D giờ đúng khổ cắt (cửa đi 900 × 2200: kính 674 × 2007 = W − 226 × H1 − 193; cửa sổ kính = cánh − 122; ô fix = lọt lòng + 30). Trước đây kính 3D dừng ở mép lọt lòng nên hụt 30 mm so với bảng kính.\n- Công thức chiều cao kính cửa đi Xingfa 55 sửa theo catalogue: kính = cánh − 144 (KÍNH = H1 − 193, CÁNH = H1 − 49), trước là − 141; ngang dưới bản lớn: cánh − 195 (khớp 3D). Thư viện đã lưu được tự đổi nếu công thức còn là mặc định cũ."
 }
