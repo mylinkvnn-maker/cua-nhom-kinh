@@ -1,8 +1,8 @@
 {
-  "version": "1.22.1",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.1/nhom_kinh_designer_v1.22.1.rbz",
-  "sha256": "98019b7ff840af6e35ef868901e45700aa9deb22847f4444dc040f05d5001871",
-  "size": 1434814,
-  "date": "2026-11-18",
-  "notes": "– Bản lề tùy chỉnh, zoăng khung cánh & chống bụi, khóa đa điểm 3D (18/11/2026)\n\n- Bản lề cửa đi tùy chỉnh theo từng ô: chọn *Số bản lề mỗi cánh* (2–6) hoặc gõ *vị trí từng bản lề* tính từ chân cánh (vd 200 900 1500 2000). 3D, bản vẽ gia công và báo giá (số lượng bản lề) đều theo số đã chỉnh; để trống là chia đều như trước (cánh cao thì 4).\n- Zoăng khung – cánh 3D: vị trí lấy từ chính mặt cắt catalogue (dò khe giữa nhôm khung và nhôm cánh): zoăng ngoài ở gờ ngoài cánh, zoăng trong ở rãnh gờ trong khung, chạy quanh cánh (cửa đi sát sàn: 3 cạnh).\n- Zoăng chống bụi chân cánh cửa đi: chổi dưới ốp đáy chạy suốt khe sàn, hoặc thanh chặn bụi tự động theo mẫu chọn.\n- Khóa đa điểm 3D: mặt khóa thép chạy suốt qua các đầu khóa, lưỡi gà, chốt chết, đầu khóa nấm, ke đón trên khung / cánh phụ. Chốt âm cánh phụ: cần gạt trên cạnh giữa 2 cánh + ty chốt về đầu / chân cánh."
+  "version": "1.22.2",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.2/nhom_kinh_designer_v1.22.2.rbz",
+  "sha256": "7d2b981947ed53055097db652b59f711aa52456137a021a0f8c0013ee2761334",
+  "size": 1435744,
+  "date": "2026-11-20",
+  "notes": "– Đồ họa 3D chỉn chu hơn (20/11/2026)\n\n- Hết nét thừa: đường dẫn dùng để quét thanh nhôm không còn sót lại thành nét rời trên mặt khung / cánh.\n- Cửa cánh vòm: hết mặt xám phủ kín cánh (kính hiện đúng); bản lề nằm trên đoạn cạnh thẳng, không còn treo lơ lửng ngoài vòm.\n- Chốt âm cánh phụ: ty chốt chỉ thò khỏi cánh 12 mm vào lỗ chốt (trước đây đâm xuống dưới sàn hơn 100 mm); cần gạt không lòi khỏi cánh.\n- Cửa kính cường lực: kẹp kính là 2 má inox bo góc ốp 2 mặt kính (trước là khối hộp nằm lọt trong kính); tay nắm H tròn Ø32 có chân đế. Cửa kính lùa treo: kẹp treo inox + bánh xe trên ray.\n- Tay nắm cửa lùa: đế bo tròn + tay cầm, thay cho khối hộp trơn."
 }
