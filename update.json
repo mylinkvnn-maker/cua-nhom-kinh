@@ -1,8 +1,8 @@
 {
-  "version": "1.23.0",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.23.0/nhom_kinh_designer_v1.23.0.rbz",
-  "sha256": "dc4b0310f203bb88dbd0ba91eee063a2c9723a0ed84e8cfa4ccab1a28b0c3c49",
-  "size": 1440135,
+  "version": "1.24.0",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.24.0/nhom_kinh_designer_v1.24.0.rbz",
+  "sha256": "0b9c83e7d2994b25d151b06c9ac066b963e6ed0d6b26cddcf6bd6812c2956455",
+  "size": 1444286,
   "date": "2026-11-21",
-  "notes": "– Ô fix trên làm khung riêng nối C3300 theo catalogue Xingfa (21/11/2026)\n\n- Cửa đi / cửa sổ có ô fix phía trên (Xingfa 55) dựng như catalogue Quảng Đông: ô fix là khung vách C3209 riêng (4 góc 45°) đặt chồng lên khung cửa C3328 / C3318, 2 khung nối bằng thanh nối khung C3300, không còn đố ngang C3313. H = H1 + H2, H2 tính tới tim thanh nối.\n- Kích thước khớp catalogue: kính fix = W − 70 × H2 − 70; cánh cửa đi = H1 − 49, kính = H1 − 193; kính cánh cửa sổ = H1 − 172. 3D, bản vẽ 2D (ghi H2 / H1) và bảng cắt (khung ô fix, khung cửa, nối khung dài W, góc ke) dùng chung một cách chia.\n- Bấm vào mối nối trên bản vẽ để chọn *Ô fix trên / dưới*: theo catalogue hệ, 2 khung riêng, hoặc 1 khung chung có đố ngang. Cửa lùa, cửa xếp, cửa vòm, mặt dựng lưới giữ đố như cũ."
+  "notes": "– Kéo khổ cửa trên bản vẽ, cửa 4 cánh, nẹp vòm, khớp 3D – bảng cắt mọi loại cửa (21/11/2026)\n\n- Kéo 4 cạnh khung trên bản vẽ (nút tròn xanh giữa mỗi cạnh) để đổi Rộng / Cao, không cần gõ số; bước 10 mm, có số đo đi theo chuột. Đang sửa cửa trong mô hình thì thả chuột là 3D dựng lại ngay; kéo cạnh trái / dưới thì cửa dời theo để cạnh đối diện đứng yên.\n- Chọn số cánh, tự chia cánh (mục *Số cánh* ở Ô đang chọn): cửa đi 1 / 2 / 4, cửa sổ 1 / 2 / 4, cửa lùa 2 / 3 / 4.\n- Cửa đi 4 cánh theo catalogue Xingfa 55 mục 1.4: cánh W/4 − 24, kính W/4 − 168, bản lề cánh – cánh, 1 bộ tay nắm khóa ở cặp cánh giữa. Cửa sổ 4 cánh (mục 1.7): 2 đố, ô biên W/4 + 10. Thêm 2 mẫu có ô fix trên chia 3 ô.\n- Ô kính dưới vòm: có nẹp kính uốn liền theo vòm và zoăng trong / ngoài, kính ăn rãnh 15 mm cả cạnh cong (trước để hở giữa kính và khung vòm). Bảng kính ô vòm theo đúng khổ 3D.\n- Sửa lỗi 1.23.0: cửa có ô fix trên bị vẽ thêm tay nắm ở cánh phụ.\n- 3D và bảng cắt khớp cho mọi loại (đã dựng thử toàn bộ 54 mẫu): kính cánh lùa ăn rãnh 10 mm, cánh lùa cao H − F − 25; cửa xếp chia cánh đều, kính ăn rãnh 8 mm; mẹ bồng con cánh con / cánh mẹ đúng bề rộng 3D."
 }
