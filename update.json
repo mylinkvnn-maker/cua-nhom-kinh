@@ -1,8 +1,8 @@
 {
-  "version": "1.22.3",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.22.3/nhom_kinh_designer_v1.22.3.rbz",
-  "sha256": "53865bc60cd8786e63cd0512002a51894ebbc1fe1699978f025091bab012aaa7",
-  "size": 1436345,
-  "date": "2026-11-20",
-  "notes": "– Kính 3D đúng khổ catalogue Xingfa (20/11/2026)\n\n- Kính ăn rãnh nhôm 15 mm mỗi cạnh như bản vẽ lắp ráp Xingfa 55: tấm kính 3D giờ đúng khổ cắt (cửa đi 900 × 2200: kính 674 × 2007 = W − 226 × H1 − 193; cửa sổ kính = cánh − 122; ô fix = lọt lòng + 30). Trước đây kính 3D dừng ở mép lọt lòng nên hụt 30 mm so với bảng kính.\n- Công thức chiều cao kính cửa đi Xingfa 55 sửa theo catalogue: kính = cánh − 144 (KÍNH = H1 − 193, CÁNH = H1 − 49), trước là − 141; ngang dưới bản lớn: cánh − 195 (khớp 3D). Thư viện đã lưu được tự đổi nếu công thức còn là mặc định cũ."
+  "version": "1.23.0",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.23.0/nhom_kinh_designer_v1.23.0.rbz",
+  "sha256": "dc4b0310f203bb88dbd0ba91eee063a2c9723a0ed84e8cfa4ccab1a28b0c3c49",
+  "size": 1440135,
+  "date": "2026-11-21",
+  "notes": "– Ô fix trên làm khung riêng nối C3300 theo catalogue Xingfa (21/11/2026)\n\n- Cửa đi / cửa sổ có ô fix phía trên (Xingfa 55) dựng như catalogue Quảng Đông: ô fix là khung vách C3209 riêng (4 góc 45°) đặt chồng lên khung cửa C3328 / C3318, 2 khung nối bằng thanh nối khung C3300, không còn đố ngang C3313. H = H1 + H2, H2 tính tới tim thanh nối.\n- Kích thước khớp catalogue: kính fix = W − 70 × H2 − 70; cánh cửa đi = H1 − 49, kính = H1 − 193; kính cánh cửa sổ = H1 − 172. 3D, bản vẽ 2D (ghi H2 / H1) và bảng cắt (khung ô fix, khung cửa, nối khung dài W, góc ke) dùng chung một cách chia.\n- Bấm vào mối nối trên bản vẽ để chọn *Ô fix trên / dưới*: theo catalogue hệ, 2 khung riêng, hoặc 1 khung chung có đố ngang. Cửa lùa, cửa xếp, cửa vòm, mặt dựng lưới giữ đố như cũ."
 }
