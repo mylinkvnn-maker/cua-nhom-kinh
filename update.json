@@ -1,8 +1,8 @@
 {
-  "version": "1.24.0",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.24.0/nhom_kinh_designer_v1.24.0.rbz",
-  "sha256": "0b9c83e7d2994b25d151b06c9ac066b963e6ed0d6b26cddcf6bd6812c2956455",
-  "size": 1444286,
-  "date": "2026-11-21",
-  "notes": "– Kéo khổ cửa trên bản vẽ, cửa 4 cánh, nẹp vòm, khớp 3D – bảng cắt mọi loại cửa (21/11/2026)\n\n- Kéo 4 cạnh khung trên bản vẽ (nút tròn xanh giữa mỗi cạnh) để đổi Rộng / Cao, không cần gõ số; bước 10 mm, có số đo đi theo chuột. Đang sửa cửa trong mô hình thì thả chuột là 3D dựng lại ngay; kéo cạnh trái / dưới thì cửa dời theo để cạnh đối diện đứng yên.\n- Chọn số cánh, tự chia cánh (mục *Số cánh* ở Ô đang chọn): cửa đi 1 / 2 / 4, cửa sổ 1 / 2 / 4, cửa lùa 2 / 3 / 4.\n- Cửa đi 4 cánh theo catalogue Xingfa 55 mục 1.4: cánh W/4 − 24, kính W/4 − 168, bản lề cánh – cánh, 1 bộ tay nắm khóa ở cặp cánh giữa. Cửa sổ 4 cánh (mục 1.7): 2 đố, ô biên W/4 + 10. Thêm 2 mẫu có ô fix trên chia 3 ô.\n- Ô kính dưới vòm: có nẹp kính uốn liền theo vòm và zoăng trong / ngoài, kính ăn rãnh 15 mm cả cạnh cong (trước để hở giữa kính và khung vòm). Bảng kính ô vòm theo đúng khổ 3D.\n- Sửa lỗi 1.23.0: cửa có ô fix trên bị vẽ thêm tay nắm ở cánh phụ.\n- 3D và bảng cắt khớp cho mọi loại (đã dựng thử toàn bộ 54 mẫu): kính cánh lùa ăn rãnh 10 mm, cánh lùa cao H − F − 25; cửa xếp chia cánh đều, kính ăn rãnh 8 mm; mẹ bồng con cánh con / cánh mẹ đúng bề rộng 3D."
+  "version": "1.25.0",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.25.0/nhom_kinh_designer_v1.25.0.rbz",
+  "sha256": "31c69099bc27924c427be1d8db7ba7ce9f01770521e66395a22bfe1dfd637ed1",
+  "size": 1445670,
+  "date": "2026-11-22",
+  "notes": "– Chân ô fix khung không ngưỡng, mặt sau chân cánh, màu kính hộp, kính cánh vòm (22/11/2026)\n\n- Ô fix ở khung không ngưỡng (thanh đứng chạy suốt xuống sàn): ô fix giờ có thanh khung ngang dưới ghép thẳng giữa 2 thanh đứng / đố, có nẹp và gioăng như 3 cạnh kia. Trước đây ô fix mất chân mà vẫn còn nẹp kính. 3D, bản vẽ và bảng cắt (*Khung bao ngang dưới ô fix*) đều có thanh này, kính ô fix ngắn lại theo.\n- Mặt sau chân cánh cửa đi (ngang dưới bản lớn): gioăng chổi chạy suốt chân cánh, hết khe hụt ở 2 góc cánh.\n- Kính hộp cùng một màu ở 2 mặt: các lớp kính dùng chung màu của lớp kính màu (trước lớp ngoài màu, lớp trong trắng nên mỗi mặt nhìn một màu).\n- Kính cánh uốn theo vòm: bảng kính lấy khổ bao theo đúng đường cong như 3D. Cánh không chạm đỉnh vòm (cánh con mẹ bồng con, cánh bên) thấp hơn cánh giữa, trước đây bảng kính tính cao bằng đỉnh vòm.\n- Ô fix trên cửa xếp (khung Xingfa 63): kính theo công thức ô fix của hệ xếp (lọt lòng − 4) cả 3D lẫn bảng kính, trước 3D và bảng kính lệch nhau 30 mm."
 }
