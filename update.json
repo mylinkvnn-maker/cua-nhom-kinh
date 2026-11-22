@@ -1,8 +1,8 @@
 {
-  "version": "1.25.0",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.25.0/nhom_kinh_designer_v1.25.0.rbz",
-  "sha256": "31c69099bc27924c427be1d8db7ba7ce9f01770521e66395a22bfe1dfd637ed1",
-  "size": 1445670,
+  "version": "1.25.1",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.25.1/nhom_kinh_designer_v1.25.1.rbz",
+  "sha256": "61a47d2bd7ab45236e434e0aa20a26ee13f22f43b36008d1e7e780dfb64c324d",
+  "size": 1445871,
   "date": "2026-11-22",
-  "notes": "– Chân ô fix khung không ngưỡng, mặt sau chân cánh, màu kính hộp, kính cánh vòm (22/11/2026)\n\n- Ô fix ở khung không ngưỡng (thanh đứng chạy suốt xuống sàn): ô fix giờ có thanh khung ngang dưới ghép thẳng giữa 2 thanh đứng / đố, có nẹp và gioăng như 3 cạnh kia. Trước đây ô fix mất chân mà vẫn còn nẹp kính. 3D, bản vẽ và bảng cắt (*Khung bao ngang dưới ô fix*) đều có thanh này, kính ô fix ngắn lại theo.\n- Mặt sau chân cánh cửa đi (ngang dưới bản lớn): gioăng chổi chạy suốt chân cánh, hết khe hụt ở 2 góc cánh.\n- Kính hộp cùng một màu ở 2 mặt: các lớp kính dùng chung màu của lớp kính màu (trước lớp ngoài màu, lớp trong trắng nên mỗi mặt nhìn một màu).\n- Kính cánh uốn theo vòm: bảng kính lấy khổ bao theo đúng đường cong như 3D. Cánh không chạm đỉnh vòm (cánh con mẹ bồng con, cánh bên) thấp hơn cánh giữa, trước đây bảng kính tính cao bằng đỉnh vòm.\n- Ô fix trên cửa xếp (khung Xingfa 63): kính theo công thức ô fix của hệ xếp (lọt lòng − 4) cả 3D lẫn bảng kính, trước 3D và bảng kính lệch nhau 30 mm."
+  "notes": "– Sửa cánh vòm sau khi kiểm tra tổng thể 47 mẫu Xingfa (22/11/2026)\n\n- Cánh vòm bị tấm nhôm đặc che kính: cánh hẹp (cánh con mẹ bồng con cánh vòm, cửa sổ vòm cung cánh vòm, cửa sổ vòm nhọn) có một mặt phẳng bịt kín lòng cánh nên nhìn ô kính màu xám ở một hoặc cả 2 mặt. Đã xóa đúng mặt bịt này, cánh nào cũng thấy kính.\n- Phụ kiện cạnh khóa của cánh vòm (điểm khóa, ke đón, chốt trên cánh phụ, tay nắm cửa sổ) đặt theo đầu thẳng của cạnh khóa, không còn nằm lơ lửng ngoài vòm. Tay nắm cửa sổ ở giữa phần cạnh thẳng. Bản lề chữ A cửa sổ hất trên cánh vòm cũng hạ theo.\n- Bảng cắt: 2 thanh nẹp kính cạnh ô vòm cung dài bằng nhau gộp 1 dòng SL 2."
 }
