@@ -1,8 +1,8 @@
 {
-  "version": "1.25.1",
-  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.25.1/nhom_kinh_designer_v1.25.1.rbz",
-  "sha256": "61a47d2bd7ab45236e434e0aa20a26ee13f22f43b36008d1e7e780dfb64c324d",
-  "size": 1445871,
+  "version": "1.25.2",
+  "url": "https://github.com/mylinkvnn-maker/cua-nhom-kinh/releases/download/v1.25.2/nhom_kinh_designer_v1.25.2.rbz",
+  "sha256": "88685a8bb5a582e1ada12781fa5eb945e1983096635512f20f6e37cc84991811",
+  "size": 1446649,
   "date": "2026-11-22",
-  "notes": "– Sửa cánh vòm sau khi kiểm tra tổng thể 47 mẫu Xingfa (22/11/2026)\n\n- Cánh vòm bị tấm nhôm đặc che kính: cánh hẹp (cánh con mẹ bồng con cánh vòm, cửa sổ vòm cung cánh vòm, cửa sổ vòm nhọn) có một mặt phẳng bịt kín lòng cánh nên nhìn ô kính màu xám ở một hoặc cả 2 mặt. Đã xóa đúng mặt bịt này, cánh nào cũng thấy kính.\n- Phụ kiện cạnh khóa của cánh vòm (điểm khóa, ke đón, chốt trên cánh phụ, tay nắm cửa sổ) đặt theo đầu thẳng của cạnh khóa, không còn nằm lơ lửng ngoài vòm. Tay nắm cửa sổ ở giữa phần cạnh thẳng. Bản lề chữ A cửa sổ hất trên cánh vòm cũng hạ theo.\n- Bảng cắt: 2 thanh nẹp kính cạnh ô vòm cung dài bằng nhau gộp 1 dòng SL 2."
+  "notes": "– Cửa sổ cánh vòm dùng bản lề 3D thay bản lề chữ A (22/11/2026)\n\n- Cửa sổ mở quay có cánh vòm (thanh cánh trên cong, vd cửa sổ 2 cánh vòm cung cánh vòm, cửa sổ 1 cánh vòm nhọn): thanh trên cong không lắp được bản lề chữ A nên mỗi cánh bỏ cả 2 chữ A, thay bằng bản lề 3D JX112 trên phần thẳng của cạnh bản lề. Số bản lề theo quy tắc như cửa đi (3 cái, cánh rất cao 4 cái).\n- 3D (bản lề 3D cửa sổ lá hẹp, nằm gọn trên khung), bản vẽ gia công và bảng phụ kiện / báo giá (*Bản lề 3D cửa sổ cánh vòm (JX112)*, giá theo bản lề cửa đi của hệ) dùng chung một cách tính. Cửa sổ cánh chữ nhật, kể cả cánh nằm dưới ô vòm fix, vẫn dùng bản lề chữ A như cũ."
 }
